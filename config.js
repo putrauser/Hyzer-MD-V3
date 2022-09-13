@@ -1,10 +1,10 @@
 //=============『 Utama 』================== //
-global.owner = ['6287892711054'] 
+global.owner = ['623876079421'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Hyzer Official'
+global.nameowner = 'Yadi'
 global.numberowner = '6283876079421'
 global.instagram = 'https://instagram.com/jokowidodo'
 global.github = 'https://github.com/yadi69'
